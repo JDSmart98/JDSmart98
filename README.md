@@ -1,4 +1,4 @@
-## Hi there 👋
+## Student of Leeds Beckett University studying Computer Science
 
 <!--
 **JDSmart98/JDSmart98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
